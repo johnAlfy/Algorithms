@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523752177 source:c:\users\john\desktop\algorithms_ass9\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+
